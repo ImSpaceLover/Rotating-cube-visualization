@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/bin
+/cube_render/x64/Debug
+/dependencies/imgui/imgui_demo.cpp
+/x64/Debug
